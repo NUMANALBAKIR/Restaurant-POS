@@ -8,6 +8,15 @@
 #### Login page -
 ![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/b58e891cfb6778f4b8a268b61d96153a467511a7/screenshots/0.png)
 
+![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/8ba2d04e0d37f911688c4c09141550df333c5c90/screenshots/0.1.png)
+
+![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/8ba2d04e0d37f911688c4c09141550df333c5c90/screenshots/0.2.png)
+
+![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/8ba2d04e0d37f911688c4c09141550df333c5c90/screenshots/0.3.png)
+
+![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/8ba2d04e0d37f911688c4c09141550df333c5c90/screenshots/0.4.png)
+
+
 #### POS invoice page -
 ![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/b58e891cfb6778f4b8a268b61d96153a467511a7/screenshots/1.png)
 
@@ -16,7 +25,4 @@
 
 #### Ongoing orders page -
 ![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/b58e891cfb6778f4b8a268b61d96153a467511a7/screenshots/3.png)
-
-#### Food management pages -
-![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/b58e891cfb6778f4b8a268b61d96153a467511a7/screenshots/4.png)
 
