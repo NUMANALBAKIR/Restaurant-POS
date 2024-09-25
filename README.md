@@ -1,4 +1,4 @@
-# Restaurant Management and POS App- using .Net, Angular
+# Restaurant Management and POS App - using .Net, Angular
 
 ### Developed fully by Numan, for company Icicle Corporation.
 ### Please note that, I have not added the project's source code to this repo, because that is Icicle's property. Only screenshots of the app are here so that you can see my work. 
