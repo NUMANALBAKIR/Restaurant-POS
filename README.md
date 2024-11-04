@@ -9,28 +9,38 @@
 ![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/59046931fab0ccd6eb8630b246e3567b1e6cbb50/screenshots/1.png)
 
 #### Dashboard -
+![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/59046931fab0ccd6eb8630b246e3567b1e6cbb50/screenshots/2.png)
 
 #### Profile info -
+![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/59046931fab0ccd6eb8630b246e3567b1e6cbb50/screenshots/3.png)
 
 #### Daily, weekly and monthly reports can be seen and exported -
+![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/59046931fab0ccd6eb8630b246e3567b1e6cbb50/screenshots/4.png)
 
 #### Food, category, addon, etc can be added -
+![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/59046931fab0ccd6eb8630b246e3567b1e6cbb50/screenshots/5.png)
 
 #### List page -
+![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/59046931fab0ccd6eb8630b246e3567b1e6cbb50/screenshots/6.png)
 
 #### List data exported as pdf -
+![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/59046931fab0ccd6eb8630b246e3567b1e6cbb50/screenshots/7.png)
 
 #### POS invoice page containing various options -
+![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/59046931fab0ccd6eb8630b246e3567b1e6cbb50/screenshots/8.png)
 
 #### Modal to select food, variant and addons -
+![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/59046931fab0ccd6eb8630b246e3567b1e6cbb50/screenshots/8.1.png)
 
 #### Order placed -
+![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/59046931fab0ccd6eb8630b246e3567b1e6cbb50/screenshots/9.png)
 
 #### Printable Invoice -
+![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/59046931fab0ccd6eb8630b246e3567b1e6cbb50/screenshots/10.png)
 
 #### Extra calculator utility -
+![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/59046931fab0ccd6eb8630b246e3567b1e6cbb50/screenshots/11.png)
 
 #### New Customer can be added from this page -
-
-#### Order placed -
+![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/59046931fab0ccd6eb8630b246e3567b1e6cbb50/screenshots/12.png)
 
