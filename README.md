@@ -44,3 +44,7 @@
 #### New Customer can be added from this page -
 ![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/59046931fab0ccd6eb8630b246e3567b1e6cbb50/screenshots/12.png)
 
+#### Many options are available for Running Orders -
+![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/7f59b2b9819b9552be5b1eae25c61b004e8686d6/screenshots/12.JPG)
+
+
