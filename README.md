@@ -27,7 +27,7 @@
 ![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/59046931fab0ccd6eb8630b246e3567b1e6cbb50/screenshots/7.png)
 
 #### POS invoice page containing various options -
-![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/59046931fab0ccd6eb8630b246e3567b1e6cbb50/screenshots/8.png)
+![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/4d4c3a9c28a4908b904b0edc053a44d47dc81329/screenshots/8.0.png)
 
 #### Modal to select food, variant and addons -
 ![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/59046931fab0ccd6eb8630b246e3567b1e6cbb50/screenshots/8.1.png)
