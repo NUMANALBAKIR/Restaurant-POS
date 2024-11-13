@@ -3,8 +3,6 @@
 ### Developed fully by Numan, for company Icicle Corporation.
 ### Please note that, I have not added the project's source code to this repo, because that is Icicle's property. Only screenshots of the app are here so that you can see my work.
 
-### It is a food management and restaurant POS app.
-
 #### Login page with company logo at bottom-
 ![_](https://github.com/NUMANALBAKIR/Restaurant-POS/blob/59046931fab0ccd6eb8630b246e3567b1e6cbb50/screenshots/1.png)
 
